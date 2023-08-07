@@ -1,0 +1,48 @@
+Result 1:
+Title: Developer Experience Lessons Operating a Serverless-like Platform ...
+Category: Category: Technology.
+
+Result 2:
+Title: Netflix Conductor: A microservices orchestrator | by Netflix ...
+Category: This text falls under the category of technology and software development.
+
+Result 3:
+Title: The Netflix Cosmos Platform. Orchestrated Functions as a… | by ...
+Category: Category: Technology/Computing Platform
+
+Result 4:
+Title: A Closer Look at the Christmas Eve Outage | by Netflix Technology ...
+Category: This text can be categorized as an incident report or technical issue.
+
+Result 5:
+Title: How Netflix Scales its API with GraphQL Federation | Netflix TechBlog
+Category: This text is related to technology and software development.
+
+Result 6:
+Title: 5 Lessons We've Learned Using AWS | by Netflix Technology Blog ...
+Category: Category: Technology, Cloud Computing
+
+Result 7:
+Title: Seamlessly Swapping the API backend of the Netflix Android app ...
+Category: Technology Transition/Deployment
+
+Result 8:
+Title: Post-mortem of October 22, 2012 AWS degradation | by Netflix ...
+Category: Category 1: Networking and security protocols
+
+Text 1: How HTTPS works and what exactly happened during a TLS handshake?
+
+Text 2: Lambda vs Lambda has recently been a trending topic in the serverless space.
+
+These texts discuss topics related to networking protocols (HTTPS, TLS handshake) and serverless technology (Lambda).
+
+Result 9:
+Title: Netflix Video Quality at Scale with Cosmos Microservices | by Netflix ...
+Category: This text appears to be related to a job posting at Netflix.
+
+Result 10:
+Title: Cache warming: Leveraging EBS for moving petabytes of data | by ...
+Category: Category: Technology
+
+Topics: HTTPS, TLS handshake, Lambda, serverless space.
+
